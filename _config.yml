@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title:
-description:
-logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+title: 'AI-powered bots'
+description: 'This site covers topics related for development of AI-powered bots aka intelligent agents which are becoming next breakthrough in IT world'
+logo: aibot-logo.png
+teaser: aibot-teaser.jpg
 locale: en
-url:
+url: http://aibotdev.com
 
 # Jekyll configuration
 

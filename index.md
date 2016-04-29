@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "AI Bots Development"
 ---
 
 <div class="tiles">
